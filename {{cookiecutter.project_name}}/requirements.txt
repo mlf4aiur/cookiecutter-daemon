@@ -1,0 +1,5 @@
+Fabric
+nose
+paramiko
+pycrypto
+wsgiref

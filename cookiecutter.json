@@ -1,0 +1,7 @@
+{
+    "full_name": "Kevin Li",
+    "email": "emailaddress@gmail.com",
+    "project_name": "simple_daemon",
+    "project_short_description": "A simple python daemon.",
+    "version": "0.9.0"
+}
